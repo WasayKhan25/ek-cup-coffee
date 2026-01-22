@@ -1,10 +1,7 @@
 # ☕    Ek cup Coffee
 
-A modern and responsive **Ek Cup Coffee** built using **React JS** and **Tailwind CSS**. This project replicates the core UI and user experience of the original Buy Me a Coffee platform and is ideal for learning real-world frontend development.
+A modern and responsive **Ek Cup Coffee** built using **React JS** and **Tailwind CSS**. This project replicates the core UI and user experience of the original Buy Me a Coffee platform 
 
-🔗 **Live Demo:** *https://ek-cup-chai.vercel.app/*
-
----
 
 ## 🚀 Features
 
@@ -76,12 +73,6 @@ Contributions are welcome! Feel free to:
 * Fork the repository
 * Create a new branch
 * Submit a pull request
-
----
-
-## 📄 License
-
-This project is for **educational purposes only**.
 
 ---
 
