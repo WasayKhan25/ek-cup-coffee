@@ -26,7 +26,7 @@ A modern and responsive **Ek Cup Coffee** built using **React JS** and **Tailwin
 ## 📂 Project Structure
 
 ```
-EKCUPCHAI/
+EK CUP COFFEE/
 ├── node_modules/
 ├── public/
 ├── src/
@@ -80,7 +80,7 @@ Contributions are welcome! Feel free to:
 
 **Abdul Wasay Ali Khan**
 
-* GitHub: [https://github.com/codingmastr](https://github.com/codingmastr)
+* GitHub: [https://github.com/WasayKhan25](https://github.com/WasayKhan25)
 ---
 
 ⭐ If you like this project, don’t forget to **star the repository**!
